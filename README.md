@@ -71,8 +71,12 @@ Another possible area of research is tuning the hyperparameters of the model to 
 
 
 
+## Short Summary
 
-
+Evaluating the accuracy of Fake News detection with Logistic Regression Model - Link 
+•	Utilised word clouds to demonstrate most frequent words in political fake news articles in python.
+•	Executed feature extraction and reduction with Portstemmer and TF-IDF function to optimise dataset by 60%
+•	Built a logistic regression model to classify 20800 political news articles with NLP and Scikit-learn libraries. 
 
 
 
